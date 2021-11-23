@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestTuiApi
 {
-    class TestRepositoryTUIApi
+    public class TestRepositoryTUIApi
     {
     }
 }
